@@ -73,7 +73,7 @@ So let's see what we need before installation and how we can download it.
 1. Clone the repo
  
    ```sh
-   git clone https://github.com/omer-dogan/kali-whoami
+   git clone https://github.com/Hovaman/kali-whoami
    ```
 2. Install makefile
  
